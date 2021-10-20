@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aniversary/static/css/main.7c534780.chunk.css",
+    "main.js": "/aniversary/static/js/main.8f2e1a06.chunk.js",
+    "main.js.map": "/aniversary/static/js/main.8f2e1a06.chunk.js.map",
+    "runtime-main.js": "/aniversary/static/js/runtime-main.c6200fd1.js",
+    "runtime-main.js.map": "/aniversary/static/js/runtime-main.c6200fd1.js.map",
+    "static/js/2.e0967380.chunk.js": "/aniversary/static/js/2.e0967380.chunk.js",
+    "static/js/2.e0967380.chunk.js.map": "/aniversary/static/js/2.e0967380.chunk.js.map",
+    "static/js/3.2b6947b2.chunk.js": "/aniversary/static/js/3.2b6947b2.chunk.js",
+    "static/js/3.2b6947b2.chunk.js.map": "/aniversary/static/js/3.2b6947b2.chunk.js.map",
+    "index.html": "/aniversary/index.html",
+    "static/css/main.7c534780.chunk.css.map": "/aniversary/static/css/main.7c534780.chunk.css.map",
+    "static/js/2.e0967380.chunk.js.LICENSE.txt": "/aniversary/static/js/2.e0967380.chunk.js.LICENSE.txt",
+    "static/media/nuestra_cancion.2b1d6e1e.mp3": "/aniversary/static/media/nuestra_cancion.2b1d6e1e.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6200fd1.js",
+    "static/js/2.e0967380.chunk.js",
+    "static/css/main.7c534780.chunk.css",
+    "static/js/main.8f2e1a06.chunk.js"
+  ]
+}
